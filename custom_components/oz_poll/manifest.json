@@ -1,12 +1,12 @@
 {
   "domain": "oz_poll",
   "name": "Oz Poll",
-  "documentation": "https://github.com/OkhammahkO/oz-poll",
-  "issue_tracker": "https://github.com/OkhammahkO/oz-poll/issues",
-  "dependencies": [],
-  "iot_class": "cloud_polling",
-  "config_flow": true,
   "codeowners": ["@OkhammahkO"],
-  "version": "0.1.0",
-  "requirements": []
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/OkhammahkO/oz-poll",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/OkhammahkO/oz-poll/issues",
+  "requirements": [],
+  "version": "0.1.0"
 }
