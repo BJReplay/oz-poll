@@ -1,11 +1,13 @@
 name: Manage labels
+permissions:
+  contents: read
+  issues: write
 
 on:
   push:
     branches:
       - main
       - master
-
 jobs:
   labeler:
     name: Labeler
